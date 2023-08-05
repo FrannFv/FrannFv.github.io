@@ -17,6 +17,7 @@
     background: rgb(120, 203, 228);
     border-radius: 5px;
 }
-.html img{
-    border: outset 4 gray;
+.HTML{
+    display: inline-block;
+    margin: auto;
 }

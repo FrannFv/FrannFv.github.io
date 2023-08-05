@@ -1,0 +1,19 @@
+body{
+    background: rgb(190, 193, 208);
+}
+.h1{
+    display: inline-block;
+    background: gray;
+    margin-left: 540px;
+    border: outset 4px black;
+}
+.audio{
+    margin-left: 500px;
+    background: gray;
+    display: inline-block;
+    border-radius: 30px;
+}
+.boton{
+    background: rgb(120, 203, 228);
+    border-radius: 5px;
+}

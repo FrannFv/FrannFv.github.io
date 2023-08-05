@@ -1,14 +1,21 @@
 * {
     font-family: 'Tektur', cursive;
 }
+.fixed{
+    display: block;
+
+}
 .h1{
+    width: auto;
+    height: auto;
     display: inline-block;
     background: gray;
     margin-left: 540px;
+    margin-top: 50px;
     border: outset 4px black;
 }
 .audio{
-    margin-left: 500px;
+    margin-left: 507px;
     background: gray;
     display: inline-block;
     border-radius: 30px;
@@ -17,7 +24,7 @@
     background: rgb(120, 203, 228);
     border-radius: 5px;
 }
-.HTML{
-    display: inline-block;
-    margin: auto;
+.fixed{
+    background: darkslategrey;
+    padding: 30px;
 }
